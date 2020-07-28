@@ -1,0 +1,583 @@
+Saint George was found in the OpenWeather API
+Ushuaia was found in the OpenWeather API
+Quatre Cocos was found in the OpenWeather API
+Rikitea was found in the OpenWeather API
+Rikitea was not found in the OpenWeather API
+Brae was found in the OpenWeather API
+Brae was not found in the OpenWeather API
+Mnogovershinnyy was found in the OpenWeather API
+Barrow was found in the OpenWeather API
+Hermanus was found in the OpenWeather API
+Ribeira Grande was found in the OpenWeather API
+New Norfolk was found in the OpenWeather API
+Narsaq was found in the OpenWeather API
+Punta Alta was found in the OpenWeather API
+Thompson was found in the OpenWeather API
+San Policarpo was found in the OpenWeather API
+Los Llanos de Aridane was found in the OpenWeather API
+Seoul was found in the OpenWeather API
+Carnarvon was found in the OpenWeather API
+Kirkwood was found in the OpenWeather API
+Kirkwood was not found in the OpenWeather API
+Lorengau was found in the OpenWeather API
+Sidi Ali was found in the OpenWeather API
+Labis was found in the OpenWeather API
+Mar del Plata was found in the OpenWeather API
+Bluff was found in the OpenWeather API
+Hobart was found in the OpenWeather API
+Mahébourg was found in the OpenWeather API
+Kruisfontein was found in the OpenWeather API
+Punta Arenas was found in the OpenWeather API
+Busselton was found in the OpenWeather API
+Saint-Augustin was found in the OpenWeather API
+Kaka was found in the OpenWeather API
+Linjiang was found in the OpenWeather API
+Guerrero Negro was found in the OpenWeather API
+Kapaa was found in the OpenWeather API
+Erdemli was found in the OpenWeather API
+Erdemli was not found in the OpenWeather API
+Teonthar was found in the OpenWeather API
+Deputatsky was found in the OpenWeather API
+Hirara was found in the OpenWeather API
+Soria was found in the OpenWeather API
+Khatanga was found in the OpenWeather API
+Ukiah was found in the OpenWeather API
+Río Gallegos was found in the OpenWeather API
+Flinders was found in the OpenWeather API
+Atuona was found in the OpenWeather API
+Abnūb was found in the OpenWeather API
+Broken Hill was found in the OpenWeather API
+Broken Hill was not found in the OpenWeather API
+Port Alfred was found in the OpenWeather API
+Kavaratti was found in the OpenWeather API
+Yārāda was found in the OpenWeather API
+Vaini was found in the OpenWeather API
+Broome was found in the OpenWeather API
+Adrar was found in the OpenWeather API
+Longyearbyen was found in the OpenWeather API
+Tiksi was found in the OpenWeather API
+Padang was found in the OpenWeather API
+Yellowknife was found in the OpenWeather API
+Ellisras was found in the OpenWeather API
+Port Hedland was found in the OpenWeather API
+Hobyo was found in the OpenWeather API
+Esperance was found in the OpenWeather API
+Havre was found in the OpenWeather API
+Bambous Virieux was found in the OpenWeather API
+Saint-Pierre was found in the OpenWeather API
+Cidreira was found in the OpenWeather API
+Chirongui was found in the OpenWeather API
+Chirongui was not found in the OpenWeather API
+Manokwari was found in the OpenWeather API
+Panabá was found in the OpenWeather API
+Balabac was found in the OpenWeather API
+Atambua was found in the OpenWeather API
+Talnakh was found in the OpenWeather API
+Beaverlodge was found in the OpenWeather API
+Lebu was found in the OpenWeather API
+Port Macquarie was found in the OpenWeather API
+Clyde River was found in the OpenWeather API
+Honiara was found in the OpenWeather API
+Avarua was found in the OpenWeather API
+Mitsamiouli was found in the OpenWeather API
+Marabu was found in the OpenWeather API
+Marabu was not found in the OpenWeather API
+Paita was found in the OpenWeather API
+Paita was not found in the OpenWeather API
+Ancud was found in the OpenWeather API
+Praia was found in the OpenWeather API
+Riihimäki was found in the OpenWeather API
+Saint-Philippe was found in the OpenWeather API
+Grand Gaube was found in the OpenWeather API
+Castro was found in the OpenWeather API
+Durban was found in the OpenWeather API
+Durban was not found in the OpenWeather API
+Kigali was found in the OpenWeather API
+Acapulco de Juárez was found in the OpenWeather API
+Balotra was found in the OpenWeather API
+Lompoc was found in the OpenWeather API
+Lompoc was not found in the OpenWeather API
+Santa Marta was found in the OpenWeather API
+Kamphaeng Phet was found in the OpenWeather API
+Kattivākkam was found in the OpenWeather API
+Snezhnogorsk was found in the OpenWeather API
+San Quintín was found in the OpenWeather API
+San Quintín was not found in the OpenWeather API
+Bilibino was found in the OpenWeather API
+Egvekinot was found in the OpenWeather API
+Egvekinot was not found in the OpenWeather API
+Jaciara was found in the OpenWeather API
+Caravelas was found in the OpenWeather API
+Ugoofaaru was found in the OpenWeather API
+Korla was found in the OpenWeather API
+Dehlorān was found in the OpenWeather API
+Henties Bay was found in the OpenWeather API
+Arraial do Cabo was found in the OpenWeather API
+Neijiang was found in the OpenWeather API
+Ilulissat was found in the OpenWeather API
+Dikson was found in the OpenWeather API
+Qasigiannguit was found in the OpenWeather API
+Qasigiannguit was not found in the OpenWeather API
+Tarauacá was found in the OpenWeather API
+Aykhal was found in the OpenWeather API
+Portland was found in the OpenWeather API
+Saint Paul Harbor was found in the OpenWeather API
+Departamento de Colonia was found in the OpenWeather API
+Oranjemund was found in the OpenWeather API
+Kieta was found in the OpenWeather API
+Kieta was not found in the OpenWeather API
+Ongandjera was found in the OpenWeather API
+Pucallpa was found in the OpenWeather API
+Butaritari was found in the OpenWeather API
+Tortolì was found in the OpenWeather API
+Chapais was found in the OpenWeather API
+Vila Velha was found in the OpenWeather API
+Vengerovo was found in the OpenWeather API
+Talcahuano was found in the OpenWeather API
+Arlit was found in the OpenWeather API
+La Asuncion was found in the OpenWeather API
+La Asuncion was not found in the OpenWeather API
+Sinazongwe was found in the OpenWeather API
+Goundam was found in the OpenWeather API
+Tuktoyaktuk was found in the OpenWeather API
+San Bartolomé de Tirajana was found in the OpenWeather API
+Georgetown was found in the OpenWeather API
+Georgetown was not found in the OpenWeather API
+Georgetown was not found in the OpenWeather API
+Sørland was found in the OpenWeather API
+Nikolskoye was found in the OpenWeather API
+Hilo was found in the OpenWeather API
+Bima was found in the OpenWeather API
+Hithadhoo was found in the OpenWeather API
+Kalmunai was found in the OpenWeather API
+Puerto Ayora was found in the OpenWeather API
+Chinhoyi was found in the OpenWeather API
+Safi was found in the OpenWeather API
+Åkersberga was found in the OpenWeather API
+Lukovetskiy was found in the OpenWeather API
+Torbay was found in the OpenWeather API
+Victoria was found in the OpenWeather API
+Kumul was found in the OpenWeather API
+San Juan was found in the OpenWeather API
+San Isidro was found in the OpenWeather API
+Jati was found in the OpenWeather API
+Vila Franca do Campo was found in the OpenWeather API
+Cabo San Lucas was found in the OpenWeather API
+Jamestown was found in the OpenWeather API
+Mackenzie was found in the OpenWeather API
+Nanortalik was found in the OpenWeather API
+Alcains was found in the OpenWeather API
+Margate was found in the OpenWeather API
+Margate was not found in the OpenWeather API
+Ostrovnoy was found in the OpenWeather API
+East London was found in the OpenWeather API
+Kilindoni was found in the OpenWeather API
+Chui was found in the OpenWeather API
+Finnsnes was found in the OpenWeather API
+Mahibadhoo was found in the OpenWeather API
+Luwuk was found in the OpenWeather API
+Luwuk was not found in the OpenWeather API
+Boende was found in the OpenWeather API
+Albany was found in the OpenWeather API
+Ponta do Sol was found in the OpenWeather API
+Katsuura was found in the OpenWeather API
+Lufilufi was found in the OpenWeather API
+Verkhnevilyuysk was found in the OpenWeather API
+Vokhma was found in the OpenWeather API
+Tuatapere was found in the OpenWeather API
+Tuatapere was not found in the OpenWeather API
+São Miguel do Araguaia was found in the OpenWeather API
+Yeniseysk was found in the OpenWeather API
+Mucurapo was found in the OpenWeather API
+Tarko-Sale was found in the OpenWeather API
+Pavullo nel Frignano was found in the OpenWeather API
+Oodweyne was found in the OpenWeather API
+Xiaoweizhai was found in the OpenWeather API
+Ekhabi was found in the OpenWeather API
+Eureka was found in the OpenWeather API
+Ixtapa was found in the OpenWeather API
+Faanui was found in the OpenWeather API
+Casandrino was found in the OpenWeather API
+Santa Fe was found in the OpenWeather API
+Turukhansk was found in the OpenWeather API
+Pargas was found in the OpenWeather API
+Naze was found in the OpenWeather API
+Namatanai was found in the OpenWeather API
+Saldanha was found in the OpenWeather API
+Muhos was found in the OpenWeather API
+Bantry was found in the OpenWeather API
+Zemio was found in the OpenWeather API
+Trairi was found in the OpenWeather API
+Cape Town was found in the OpenWeather API
+Pangnirtung was found in the OpenWeather API
+Qaanaaq was found in the OpenWeather API
+Qaanaaq was not found in the OpenWeather API
+Litovko was found in the OpenWeather API
+Pangody was found in the OpenWeather API
+Nyakahanga was found in the OpenWeather API
+Sivaki was found in the OpenWeather API
+Bethel was found in the OpenWeather API
+Nova Londrina was found in the OpenWeather API
+Rosarito was found in the OpenWeather API
+Yumen was found in the OpenWeather API
+Lavrentiya was found in the OpenWeather API
+Sibu was found in the OpenWeather API
+Cherskiy was found in the OpenWeather API
+Paamiut was found in the OpenWeather API
+Oleksandrivka was found in the OpenWeather API
+Tsnori was found in the OpenWeather API
+Tsnori was not found in the OpenWeather API
+Atar was found in the OpenWeather API
+Puquio was found in the OpenWeather API
+Penzance was found in the OpenWeather API
+Penzance was not found in the OpenWeather API
+Kirksville was found in the OpenWeather API
+Shimoda was found in the OpenWeather API
+Upernavik was found in the OpenWeather API
+Marsh Harbour was found in the OpenWeather API
+Orlik was found in the OpenWeather API
+Fergus Falls was found in the OpenWeather API
+Merowe was found in the OpenWeather API
+Fuerte Olimpo was found in the OpenWeather API
+Boulder was found in the OpenWeather API
+Mayo was found in the OpenWeather API
+Vardø was found in the OpenWeather API
+Sanchursk was found in the OpenWeather API
+Laguna was found in the OpenWeather API
+Laguna was not found in the OpenWeather API
+Ust-Tsilma was found in the OpenWeather API
+Orbetello was found in the OpenWeather API
+Orbetello was not found in the OpenWeather API
+Kedrovyy was found in the OpenWeather API
+Mosquera was found in the OpenWeather API
+Port Elizabeth was found in the OpenWeather API
+Roura was found in the OpenWeather API
+Porto Novo was found in the OpenWeather API
+Sisimiut was found in the OpenWeather API
+San Patricio was found in the OpenWeather API
+Inta was found in the OpenWeather API
+Ambanja was found in the OpenWeather API
+Ndjolé was found in the OpenWeather API
+Glenwood Springs was found in the OpenWeather API
+Merritt Island was found in the OpenWeather API
+Kuruman was found in the OpenWeather API
+Tual was found in the OpenWeather API
+Caibarién was found in the OpenWeather API
+Caibarién was not found in the OpenWeather API
+Russell was found in the OpenWeather API
+Piteå was found in the OpenWeather API
+Cassilândia was found in the OpenWeather API
+Ahipara was found in the OpenWeather API
+Tërny was found in the OpenWeather API
+Tyul'gan was found in the OpenWeather API
+Härnösand was found in the OpenWeather API
+Bathsheba was found in the OpenWeather API
+Ambilobe was found in the OpenWeather API
+Lernanist was found in the OpenWeather API
+Auxerre was found in the OpenWeather API
+Port Lincoln was found in the OpenWeather API
+Husavik was found in the OpenWeather API
+Hualmay was found in the OpenWeather API
+Gorlice was found in the OpenWeather API
+Gorlice was not found in the OpenWeather API
+Port-Cartier was found in the OpenWeather API
+Wareham was found in the OpenWeather API
+Nome was found in the OpenWeather API
+Saskylakh was found in the OpenWeather API
+Nikolayevsk-on-Amur was found in the OpenWeather API
+Provideniya was found in the OpenWeather API
+Port Blair was found in the OpenWeather API
+Port Blair was not found in the OpenWeather API
+Ulladulla was found in the OpenWeather API
+Sitka was found in the OpenWeather API
+Pitiquito was found in the OpenWeather API
+Rawson was found in the OpenWeather API
+Tautira was found in the OpenWeather API
+Berdigestyakh was found in the OpenWeather API
+Shimanovsk was found in the OpenWeather API
+Sulangan was found in the OpenWeather API
+Aklavik was found in the OpenWeather API
+Pitimbu was found in the OpenWeather API
+Diapaga was found in the OpenWeather API
+Diapaga was not found in the OpenWeather API
+Diapaga was not found in the OpenWeather API
+Maniitsoq was found in the OpenWeather API
+Dongsheng was found in the OpenWeather API
+Dongsheng was not found in the OpenWeather API
+Yulara was found in the OpenWeather API
+Yamada was found in the OpenWeather API
+Midland was found in the OpenWeather API
+Bangor was found in the OpenWeather API
+Severo-Kuril'sk was found in the OpenWeather API
+Tadine was found in the OpenWeather API
+Ketchikan was found in the OpenWeather API
+Champerico was found in the OpenWeather API
+Tiznit Province was found in the OpenWeather API
+Bengkulu was found in the OpenWeather API
+Marystown was found in the OpenWeather API
+Marystown was not found in the OpenWeather API
+Bredasdorp was found in the OpenWeather API
+High Level was found in the OpenWeather API
+Mehamn was found in the OpenWeather API
+Coyhaique was found in the OpenWeather API
+Baruun-Urt was found in the OpenWeather API
+Baruun-Urt was not found in the OpenWeather API
+Honningsvåg was found in the OpenWeather API
+Petropavlovsk-Kamchatskiy was found in the OpenWeather API
+Lagoa was found in the OpenWeather API
+Isangel was found in the OpenWeather API
+Saquena was found in the OpenWeather API
+Saquena was not found in the OpenWeather API
+Abhā was found in the OpenWeather API
+Ilawe was found in the OpenWeather API
+Kyzyl-Suu was found in the OpenWeather API
+Salinópolis was found in the OpenWeather API
+Charter Township of Clinton was found in the OpenWeather API
+Sioux Lookout was found in the OpenWeather API
+Pevek was found in the OpenWeather API
+Pevek was not found in the OpenWeather API
+Viedma was found in the OpenWeather API
+Matehuala was found in the OpenWeather API
+Kavieng was found in the OpenWeather API
+Bairiki Village was found in the OpenWeather API
+Zyryanka was found in the OpenWeather API
+Zyryanka was not found in the OpenWeather API
+Zyryanka was not found in the OpenWeather API
+‘Ewa Beach was found in the OpenWeather API
+Hofn was found in the OpenWeather API
+Tasiilaq was found in the OpenWeather API
+Tasiilaq was not found in the OpenWeather API
+Manggar was found in the OpenWeather API
+Lüderitz was found in the OpenWeather API
+Roald was found in the OpenWeather API
+Urucará was found in the OpenWeather API
+Winslow was found in the OpenWeather API
+Hampton was found in the OpenWeather API
+Opuwo was found in the OpenWeather API
+Opuwo was not found in the OpenWeather API
+Opuwo was not found in the OpenWeather API
+Sladkovo was found in the OpenWeather API
+Lafia was found in the OpenWeather API
+Lafia was not found in the OpenWeather API
+Haradok was found in the OpenWeather API
+Haradok was not found in the OpenWeather API
+Vao was found in the OpenWeather API
+Smithers was found in the OpenWeather API
+São João da Barra was found in the OpenWeather API
+Kaitangata was found in the OpenWeather API
+Alofi was found in the OpenWeather API
+Sonāri was found in the OpenWeather API
+Ayan was found in the OpenWeather API
+Marsá Maţrūḩ was found in the OpenWeather API
+Marsá Maţrūḩ was not found in the OpenWeather API
+Zeya was found in the OpenWeather API
+Kwinana was found in the OpenWeather API
+Vorotynets was found in the OpenWeather API
+Antas was found in the OpenWeather API
+Halifax was found in the OpenWeather API
+Gravdal was found in the OpenWeather API
+Taganak was found in the OpenWeather API
+Taganak was not found in the OpenWeather API
+Bandarbeyla was found in the OpenWeather API
+Bandarbeyla was not found in the OpenWeather API
+Moindou was found in the OpenWeather API
+Changde was found in the OpenWeather API
+Staryy Nadym was found in the OpenWeather API
+Te Anau was found in the OpenWeather API
+Havelock was found in the OpenWeather API
+Chokurdakh was found in the OpenWeather API
+Horki was found in the OpenWeather API
+Bella Union was found in the OpenWeather API
+Kangaba was found in the OpenWeather API
+Coruripe was found in the OpenWeather API
+Coruripe was not found in the OpenWeather API
+Matata was found in the OpenWeather API
+Matata was not found in the OpenWeather API
+Dudinka was found in the OpenWeather API
+Souillac was found in the OpenWeather API
+Souillac was not found in the OpenWeather API
+Yar-Sale was found in the OpenWeather API
+Sechura was found in the OpenWeather API
+Baykit was found in the OpenWeather API
+Leshukonskoye was found in the OpenWeather API
+Leshukonskoye was not found in the OpenWeather API
+Teeli was found in the OpenWeather API
+Huilong was found in the OpenWeather API
+Cockburn Town was found in the OpenWeather API
+Buraidah was found in the OpenWeather API
+Klaksvík was found in the OpenWeather API
+Klaksvík was not found in the OpenWeather API
+Diu was found in the OpenWeather API
+Diu was not found in the OpenWeather API
+Evensk was found in the OpenWeather API
+Puerto Carreño was found in the OpenWeather API
+Puerto Carreño was not found in the OpenWeather API
+Half Moon Bay was found in the OpenWeather API
+Casambalangan was found in the OpenWeather API
+Kismayo was found in the OpenWeather API
+Gloggnitz was found in the OpenWeather API
+Meulaboh was found in the OpenWeather API
+Carauari was found in the OpenWeather API
+Itarema was found in the OpenWeather API
+Kestel was found in the OpenWeather API
+Arauca was found in the OpenWeather API
+Victor Harbor was found in the OpenWeather API
+Victor Harbor was not found in the OpenWeather API
+Port-Gentil was found in the OpenWeather API
+Kaeo was found in the OpenWeather API
+Batemans Bay was found in the OpenWeather API
+Jiazi was found in the OpenWeather API
+Iskateley was found in the OpenWeather API
+Skjervøy was found in the OpenWeather API
+Ushtobe was found in the OpenWeather API
+Getahovit was found in the OpenWeather API
+Alice Springs was found in the OpenWeather API
+Verkhnyaya Inta was found in the OpenWeather API
+Takoradze was found in the OpenWeather API
+Vallenar was found in the OpenWeather API
+Bonavista was found in the OpenWeather API
+Darhan was found in the OpenWeather API
+Flagstaff was found in the OpenWeather API
+Vanimo was found in the OpenWeather API
+Kasama was found in the OpenWeather API
+Kemijärvi was found in the OpenWeather API
+Macedo de Cavaleiros was found in the OpenWeather API
+Macedo de Cavaleiros was not found in the OpenWeather API
+Norman Wells was found in the OpenWeather API
+Vryburg was found in the OpenWeather API
+Amberley was found in the OpenWeather API
+Amberley was not found in the OpenWeather API
+São Filipe was found in the OpenWeather API
+Ola was found in the OpenWeather API
+Bud was found in the OpenWeather API
+Bocaiúva was found in the OpenWeather API
+Bocaiúva was not found in the OpenWeather API
+Corbélia was found in the OpenWeather API
+Santa Barbara was found in the OpenWeather API
+Buluang was found in the OpenWeather API
+Buluang was not found in the OpenWeather API
+Vagay was found in the OpenWeather API
+Levelland was found in the OpenWeather API
+Bilma was found in the OpenWeather API
+Shingū was found in the OpenWeather API
+Ovsyanka was found in the OpenWeather API
+Mareeba was found in the OpenWeather API
+Kasangulu was found in the OpenWeather API
+Iqaluit was found in the OpenWeather API
+Charters Towers was found in the OpenWeather API
+Dingle was found in the OpenWeather API
+Arkhangelsk was found in the OpenWeather API
+Ribnitz-Damgarten was found in the OpenWeather API
+Bacabac was found in the OpenWeather API
+Bacabac was not found in the OpenWeather API
+Grindavik was found in the OpenWeather API
+Chara was found in the OpenWeather API
+Edd was found in the OpenWeather API
+Edd was not found in the OpenWeather API
+San Ramón was found in the OpenWeather API
+Sennar was found in the OpenWeather API
+Warrington was found in the OpenWeather API
+Alta Floresta was found in the OpenWeather API
+Ghanzi was found in the OpenWeather API
+Fortuna was found in the OpenWeather API
+Oktyabr'skoye was found in the OpenWeather API
+Comodoro Rivadavia was found in the OpenWeather API
+Comodoro Rivadavia was not found in the OpenWeather API
+Banda Aceh was found in the OpenWeather API
+Moyale was found in the OpenWeather API
+Bârnova was found in the OpenWeather API
+Ouadda was found in the OpenWeather API
+Ouadda was not found in the OpenWeather API
+Ouadda was not found in the OpenWeather API
+Ouadda was not found in the OpenWeather API
+Semikarakorsk was found in the OpenWeather API
+Semikarakorsk was not found in the OpenWeather API
+Sistranda was found in the OpenWeather API
+Rafai was found in the OpenWeather API
+Luna was found in the OpenWeather API
+Zhigansk was found in the OpenWeather API
+Hay River was found in the OpenWeather API
+Bonthe was found in the OpenWeather API
+Muros was found in the OpenWeather API
+Tyumentsevo was found in the OpenWeather API
+Coquimbo was found in the OpenWeather API
+Pūndri was found in the OpenWeather API
+North Bend was found in the OpenWeather API
+North Bend was not found in the OpenWeather API
+Ourém was found in the OpenWeather API
+Geraldton was found in the OpenWeather API
+Lady Frere was found in the OpenWeather API
+Butembo was found in the OpenWeather API
+Redlands was found in the OpenWeather API
+Labuhan was found in the OpenWeather API
+Ca Mau was found in the OpenWeather API
+Catalina was found in the OpenWeather API
+Alugan was found in the OpenWeather API
+Touros was found in the OpenWeather API
+Dakar was found in the OpenWeather API
+Dakar was not found in the OpenWeather API
+Solnechnyy was found in the OpenWeather API
+Muroto-misakicho was found in the OpenWeather API
+Constitución was found in the OpenWeather API
+Anadyr was found in the OpenWeather API
+Kīhei was found in the OpenWeather API
+Sungai Penuh was found in the OpenWeather API
+Lyuban' was found in the OpenWeather API
+Vestmannaeyjar was found in the OpenWeather API
+Roma was found in the OpenWeather API
+Aqsū was found in the OpenWeather API
+Kungurtug was found in the OpenWeather API
+Kungurtug was not found in the OpenWeather API
+Samarai was found in the OpenWeather API
+Wolfsburg was found in the OpenWeather API
+Harper was found in the OpenWeather API
+Antofagasta was found in the OpenWeather API
+Henderson was found in the OpenWeather API
+Taoudenni was found in the OpenWeather API
+Nantucket was found in the OpenWeather API
+Along was found in the OpenWeather API
+Ordynskoye was found in the OpenWeather API
+Rock Sound was found in the OpenWeather API
+Jalu was found in the OpenWeather API
+Verkhotur'ye was found in the OpenWeather API
+Orcopampa was found in the OpenWeather API
+Davila was found in the OpenWeather API
+Leningradskiy was found in the OpenWeather API
+Karratha was found in the OpenWeather API
+Perry was found in the OpenWeather API
+Liepāja was found in the OpenWeather API
+Chanute was found in the OpenWeather API
+Mount Gambier was found in the OpenWeather API
+Masallātah was found in the OpenWeather API
+Pisco was found in the OpenWeather API
+Bowen was found in the OpenWeather API
+Byron Bay was found in the OpenWeather API
+Moerai was found in the OpenWeather API
+Moerai was not found in the OpenWeather API
+Frontignan was found in the OpenWeather API
+Hasaki was found in the OpenWeather API
+Pundaguitan was found in the OpenWeather API
+Tazovsky was found in the OpenWeather API
+Komsomol'skiy was found in the OpenWeather API
+Komsomol'skiy was not found in the OpenWeather API
+College was found in the OpenWeather API
+Santiago del Estero was found in the OpenWeather API
+Carman was found in the OpenWeather API
+Road Town was found in the OpenWeather API
+Mountain Home was found in the OpenWeather API
+Alingsås was found in the OpenWeather API
+Mitú was found in the OpenWeather API
+Guangming was found in the OpenWeather API
+Prieska was found in the OpenWeather API
+Kamenka was found in the OpenWeather API
+Pochutla was found in the OpenWeather API
+Pochutla was not found in the OpenWeather API
+Pochutla was not found in the OpenWeather API
+Chunskiy was found in the OpenWeather API
+Tabora was found in the OpenWeather API
+Jizan was found in the OpenWeather API
+São Francisco do Sul was found in the OpenWeather API
+Kalabo was found in the OpenWeather API
+Rossland was found in the OpenWeather API
+Mogadishu was found in the OpenWeather API
+Cayenne was found in the OpenWeather API
